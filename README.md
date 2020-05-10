@@ -29,3 +29,9 @@ NodeJS REPL: `<Leader>an` or `:call FloatTerm('"node"')`
 Floating tig - TUI Git: `<Leader>ag` or `:call FloatTerm('"tig"')`
 
 ![](https://i.imgur.com/zAjTPsK.png)
+
+## Note
+
+For displaying well font of vim-devicons. You should install [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
+
+To install it you can check this [instructions](https://gist.github.com/matthewjberger/7dd7e079f282f8138a9dc3b045ebefa0)
